@@ -1,4 +1,4 @@
-# #####################################################################
+#My python programs. B.Tech CSE First year student |CMR Institute of Technology, Hyderabad|Python & C++ | Aspiring Software Engineer | Exploring AI & Full-Stack Development. #####################################################################
 # PROJECT 1: HOTEL BOOKING SYSTEM
 # #####################################################################
 
